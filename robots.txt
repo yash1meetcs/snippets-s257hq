@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yash1meetcs.github.io/snippets-s257hq/sitemap.xml
